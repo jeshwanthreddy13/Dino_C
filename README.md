@@ -9,6 +9,6 @@ This is a game made with only C.
  Use the MAKEfile I have provided to run the files.
  When you run the program press r on your keyboard to start the game.
  Press Spacebar to jump over obstacles and score points.
- The speed of the obstacles increases as you score more points.
+ The speed of the obstacles increase as you score more points.
  
  Enjoy !
