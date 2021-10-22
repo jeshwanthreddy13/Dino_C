@@ -1,7 +1,8 @@
 # Dino_C
-This is a game made with only C.
- In this project there are five .c files and 2 header files.
- This is a basic dinosaur jumping over obstacles type game with basic graphics. 
+This is a game made with C.
+In this project there are five .c files and 2 header files.
+This is a basic dinosaur jumping over obstacles type game with basic graphics.
+There are two obstacles, cactus and a donkey that appear in random order and our job is to jump over them and keep scoring as many points as possible.
 
 <img width="935" alt="Screenshot 2021-10-22 at 8 02 27 PM" src="https://user-images.githubusercontent.com/60390772/138473132-ebb7b735-0450-46d3-86b0-1f68e316526d.png">
 <img width="1592" alt="Screenshot 2021-10-22 at 7 56 25 PM" src="https://user-images.githubusercontent.com/60390772/138473233-ed0f0669-67a3-47af-9487-06507a0c8355.png">
